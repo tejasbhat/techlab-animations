@@ -9,7 +9,7 @@ Starts off with a Conway's Game of Life animation and slowly fades into the tech
 
 ## Exploding Circles Animation
 
-Beautiful circles periodocially expand and spawn until the techlab logo appears.
+Variously colored circles periodocially expand and spawn until the techlab logo appears.
 The circles are based off the GrowingItem interface.
 
 ## Polygon Animation
